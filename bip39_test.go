@@ -138,6 +138,9 @@ func badMnemonicSentences() []Vector {
 		{
 			mnemonic: "",
 		},
+		{
+			mnemonic: " ",
+		},
 	}
 }
 
