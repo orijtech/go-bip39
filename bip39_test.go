@@ -135,6 +135,9 @@ func badMnemonicSentences() []Vector {
 		{
 			mnemonic: "dignity pass list indicate nasty",
 		},
+		{
+			mnemonic: "",
+		},
 	}
 }
 
